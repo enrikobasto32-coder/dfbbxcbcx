@@ -1,0 +1,5 @@
+{
+  "name": "Sentimo - Customer Sentiment Dashboard",
+  "description": "An AI-powered dashboard that analyzes large batches of customer reviews to visualize sentiment trends, identify key keywords, and generate actionable executive summaries using Gemini.",
+  "requestFramePermissions": []
+}
